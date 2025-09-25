@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>👋 </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝐚𝐜𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞𝐝. 𝐂𝐨𝐧𝐪𝐮𝐞𝐬𝐭 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬. <𝚌𝚘𝚍𝚎𝚛𝚜/>👋 </h2>
 
 ## Social Presence 🤝
 [<img src="https://img.shields.io/badge/NarendraReddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/narendrareddyyadama)
