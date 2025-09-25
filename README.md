@@ -103,14 +103,14 @@
 &nbsp;
 <p align="center">
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YadamaNarendraReddy&show_icons=true&theme=radical&count_private=true" />
 </p>
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamalaSumanth0262&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YadamaNarendraReddy&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 
@@ -123,6 +123,6 @@
 
 <p align="center">
   
-<img src="https://komarev.com/ghpvc/?username=SamalaSumanth0262&label=PROFILE%20VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YadamaNarendraReddy&label=PROFILE%20VIEWS" />
 </p>
 
